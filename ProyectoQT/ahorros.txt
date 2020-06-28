@@ -1,0 +1,4 @@
+super|o|10000
+super|o|0
+super|o|0
+super|o|40000
